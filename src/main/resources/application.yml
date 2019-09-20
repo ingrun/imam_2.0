@@ -1,0 +1,18 @@
+
+spring:
+  datasource:
+    username: root
+#    password: 997417229
+    password: root
+    url: jdbc:mysql://localhost:3306/imam?useUnicode=true&characterEncoding=UTF-8
+    driver-class-name: com.mysql.jdbc.Driver
+
+#服务器端口
+server:
+  port: 8012
+
+#本地端口
+#server:
+#  port: 8081
+#  session:
+#    timeout: 60
