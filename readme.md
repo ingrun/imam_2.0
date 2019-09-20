@@ -11,18 +11,13 @@
 
 
 
+
+
 ![Snipaste_2019-09-20_09-06-25](assets/Snipaste_2019-09-20_09-06-25.png)
-
-
-
-
 
 ![Snipaste_2019-09-20_09-09-43](assets/Snipaste_2019-09-20_09-09-43.png)
 
-
-
 ![Snipaste_2019-09-20_09-10-39](assets/Snipaste_2019-09-20_09-10-39.png)
 
-
-
 ![Snipaste_2019-09-20_09-11-42](assets/Snipaste_2019-09-20_09-11-42.png)
+
