@@ -6,7 +6,7 @@
 
 
 - 项目使用的是 spring boot + vue.js 的前后端分离方案
-- 没有使用mybatis  而是 mybatis -puls
+- 没有使用mybatis  而是 mybatis -plus
 - ui 使用的是 vant  仅适配移动端
 
 
