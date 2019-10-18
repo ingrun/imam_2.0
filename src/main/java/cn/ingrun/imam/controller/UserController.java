@@ -50,6 +50,13 @@ public class UserController {
         return userService.login(user);
     }
 
+    @PostMapping("api/updPassword")
+    @ResponseBody
+    public Map updPassword( @RequestBody User user){
+        logger.info("controller:  /updPassword");
+        return userService.login(user);
+    }
+
 
 
 }
